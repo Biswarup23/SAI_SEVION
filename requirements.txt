@@ -1,0 +1,7 @@
+PyQt5
+requests
+platformdirs
+pyperclip
+keyboard
+plyer
+keyring
